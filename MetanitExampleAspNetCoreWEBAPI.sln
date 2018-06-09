@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetanitExampleAspNetCoreWEBAPI", "MetanitExampleAspNetCoreWEBAPI\MetanitExampleAspNetCoreWEBAPI.csproj", "{0AAFEE0E-F756-45DC-BB0A-AC6FDF1FF027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AAFEE0E-F756-45DC-BB0A-AC6FDF1FF027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AAFEE0E-F756-45DC-BB0A-AC6FDF1FF027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AAFEE0E-F756-45DC-BB0A-AC6FDF1FF027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AAFEE0E-F756-45DC-BB0A-AC6FDF1FF027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5871216E-476B-4803-81C2-4E78677F057C}
+	EndGlobalSection
+EndGlobal
