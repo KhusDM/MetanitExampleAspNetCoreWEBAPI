@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dmitry.Khusnetdinov\\source\\repos\\MetanitExampleAspNetCoreWEBAPI\\MetanitExampleAspNetCoreWEBAPI\\MetanitExampleAspNetCoreWEBAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Dmitry.Khusnetdinov\\source\\repos\\MetanitExampleAspNetCoreWEBAPI\\repo\\MetanitExampleAspNetCoreWEBAPI\\MetanitExampleAspNetCoreWEBAPI\\MetanitExampleAspNetCoreWEBAPI.csproj",
       "projectName": "MetanitExampleAspNetCoreWEBAPI",
-      "projectPath": "C:\\Users\\Dmitry.Khusnetdinov\\source\\repos\\MetanitExampleAspNetCoreWEBAPI\\MetanitExampleAspNetCoreWEBAPI\\MetanitExampleAspNetCoreWEBAPI.csproj",
+      "projectPath": "C:\\Users\\Dmitry.Khusnetdinov\\source\\repos\\MetanitExampleAspNetCoreWEBAPI\\repo\\MetanitExampleAspNetCoreWEBAPI\\MetanitExampleAspNetCoreWEBAPI\\MetanitExampleAspNetCoreWEBAPI.csproj",
       "packagesPath": "C:\\Users\\Dmitry.Khusnetdinov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dmitry.Khusnetdinov\\source\\repos\\MetanitExampleAspNetCoreWEBAPI\\MetanitExampleAspNetCoreWEBAPI\\obj\\",
+      "outputPath": "C:\\Users\\Dmitry.Khusnetdinov\\source\\repos\\MetanitExampleAspNetCoreWEBAPI\\repo\\MetanitExampleAspNetCoreWEBAPI\\MetanitExampleAspNetCoreWEBAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
