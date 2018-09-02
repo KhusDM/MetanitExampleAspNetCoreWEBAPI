@@ -28,7 +28,7 @@ namespace MetanitExampleAspNetCoreWEBAPI
             string usersConnection = Configuration.GetConnectionString("UsersDatabase");
 
             services.AddDbContext<UsersContext>(optionsAction => optionsAction.UseSqlServer(usersConnection));
-            services.AddMvc();
+            services.AddMvc().AddXmlDataContractSerializerFormatters();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -39,6 +39,8 @@ namespace MetanitExampleAspNetCoreWEBAPI
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
             app.UseMvc();
         }
     }
